@@ -20,7 +20,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.taxigo.rider",
       "config": {
-        "googleMapsApiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        "googleMapsApiKey": "AIzaSyBovKxjpjTLfZRhTjX78bYViXuh4II6C7o"
       },
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "TaxiGo needs your location to show nearby drivers and navigate.",
@@ -35,7 +35,7 @@
       "package": "com.taxigo.rider",
       "config": {
         "googleMaps": {
-          "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+          "apiKey": "AIzaSyBovKxjpjTLfZRhTjX78bYViXuh4II6C7o"
         }
       },
       "permissions": [
